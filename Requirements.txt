@@ -1,0 +1,5 @@
+nltk
+io
+re
+tensorflow 
+google.colab
